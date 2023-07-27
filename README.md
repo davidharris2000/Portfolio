@@ -65,7 +65,7 @@ GitHub - https://github.com/davidharris2000
 
     
 # 🚀 About Me
-I'm a Front-end web developer know HTML CSS and Javascript.
+I'm a Front-end web developer who can work with HTML CSS and Javascript.
 
 Frameworks - React, Tailwind CSS
              Tailwind CSS.
